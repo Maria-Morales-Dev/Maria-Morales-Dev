@@ -1,4 +1,4 @@
-# Hola, soy María Morales 👋
+# Hola, soy María Morales 
 ### Desarrollo de Aplicaciones Multiplataforma (DAM) & Diseño UI/UX
 
 Combino formación previa en diseño gráfico con el desarrollo de software y la lógica backend. Mi objetivo es construir productos digitales intuitivos, accesibles, escalables y respaldados por arquitecturas robustas.
